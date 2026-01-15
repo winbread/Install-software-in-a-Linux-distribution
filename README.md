@@ -26,8 +26,9 @@ First lets verify we have apt installed by entering apt
 <img src="https://github.com/winbread/Install-software-in-a-Linux-distribution/blob/main/Screenshot%202026-01-15%20112603.png?raw=true"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use the APT package manager to install Suricata by running `sudo apt install suricata`. <br />
+ Note: running sudo is important, only users with elevated permissions (sudo users) can install or uninstall applications<br/>
+<img src="https://github.com/winbread/Install-software-in-a-Linux-distribution/blob/main/sudoaptinstall.png?raw=true"/>
 <br />
 <br />
 Enter the number of passes: <br/>
