@@ -21,7 +21,8 @@ Project consists of installing and uninstalling applications using a packet mana
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First lets verify we have apt installed by entering apt: <br/>
+First lets verify we have apt installed by entering apt
+ When installed apt displays basic usage information. This includes the version information and a description of the tool: <br/>
 <img src="https://github.com/winbread/Install-software-in-a-Linux-distribution/blob/main/Screenshot%202026-01-15%20112603.png?raw=true"/>
 <br />
 <br />
